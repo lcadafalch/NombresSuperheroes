@@ -1,3 +1,30 @@
+.body{  
+    background-color:burlywood;
+}
+
+.backgroundimg {
+    background-image: ("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color:rgb(221, 179, 150);
+  }
 h1{
     text-align: center;
+    margin-top: 10%;
+    color: wheat;
+}
+
+.botonesGeneradores{
+    margin-top:25% ;
+    margin-right: 19%;
+}
+.cartaGeneral{
+background-image: linear-gradient(to bottom, #0b203f, #005184, #0087a4, #00bc89, #12eb2e);
+border: cornflowerblue;
+border-style: ridge;
+}
+.fondoInferior{
+    background-color: rgb(163, 184, 185);
+}
+hr{
+visibility: hidden;
 }
